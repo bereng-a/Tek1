@@ -1,1 +1,1 @@
-# Ici sont deposés tous mes projets de première année à Epitech
+# Elementary programming in C
